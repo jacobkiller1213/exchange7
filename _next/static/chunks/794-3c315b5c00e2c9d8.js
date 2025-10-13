@@ -4,7 +4,7 @@
   {
     30227: (e, t, s) => {
       s.d(t, { VS: () => r, cy: () => a });
-      let a = "https://t.me/bankcrypt_support",
+      let a = "https://t.me/ChainGrams_ex",
         r = ["TON", "USDTTON", "XRP", "NOT", "EOS", "XLM"];
     },
     65564: (e, t, s) => {
@@ -992,7 +992,7 @@
                   children: [
                     (0, a.jsx)("div", {
                       className: "text-center mt-5 text-description ",
-                      children: "\xa9 2025 BankCrypt.",
+                      children: "\xa9 2025 ChainGrams.",
                     }),
                     (0, a.jsx)("div", { className: "" }),
                   ],
