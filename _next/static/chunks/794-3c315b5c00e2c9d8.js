@@ -992,7 +992,7 @@
                   children: [
                     (0, a.jsx)("div", {
                       className: "text-center mt-5 text-description ",
-                      children: "\xa9 2025 eviternal.",
+                      children: "\xa9 2025 Eviternal.",
                     }),
                     (0, a.jsx)("div", { className: "" }),
                   ],
